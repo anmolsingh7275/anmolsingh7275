@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I'm Anmol Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hey 👋, I'm Anmol Singh</h1>
+<h3 align="center">Full-Stack Developer | DSA Enthusiast | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsingh7275&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsingh7275" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolsingh7275" alt="anmolsingh7275" /></a> </p>
-
-- 🔭 I’m currently working on **DevTinder**
-
-- 🌱 I’m currently learning **Next.js,Typescript,Socket.io**
-
-- 💬 Ask me about **Web Development (React.js, Node.js, Express.js, MongoDB) - Data Structures & Algorithms (Java, LeetCode,)**
-
-- 📫 How to reach me **anmolsinghchauhan.200@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/anmolsingh7275/resume/blob/main/resume%20(1).pdf](https://github.com/anmolsingh7275/resume/blob/main/resume%20(1).pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anmol-singh-84200b25a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmol-singh-84200b25a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/_anmolsingh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_anmolsingh_/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;700%2B+DSA+Problems+Solved;React+%7C+Next.js+%7C+Node.js;Java+%7C+C%2B%2B+%7C+SQL+%7C+TypeScript;Learning+Never+Stops+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolsingh7275&show_icons=true&locale=en&layout=compact" alt="anmolsingh7275" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolsingh7275&show_icons=true&locale=en" alt="anmolsingh7275" /></p>
+- 🔭 Currently focused on **React, Next.js, Node.js** and building full-stack apps  
+- 🌱 Learning **backend scaling, Java**, and strengthening DSA  
+- 💡 Solved **700+ DSA problems** across platforms (Top 10%)  
+- 🎯 Goal: Be consistent and level up each day — no excuses, just progress!  
+- 🏆 **Hack-O-Fiesta V5 Finalist** (Top 5/500+ teams) with *Connect Senior*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsingh7275&" alt="anmolsingh7275" /></p>
+---
 
+### 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts,react,nextjs,nodejs,express,postgresql,mongodb,docker,git,github,html,css,tailwind,vscode,figma&theme=light" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exoblade-dev&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exoblade-dev&layout=compact&hide_border=true&theme=gruvbox" />
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exoblade-dev&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🚀 Currently Working On
+
+- ✨ Building **production-grade full-stack apps**  
+- 💼 Working on **React + Next.js projects**  
+- 📈 Solving **DSA problems** regularly to improve problem-solving  
+- 🤝 Contributing to **open-source** and mentoring peers  
+
+---
+
+### 🎯 2025 Goals
+
+- ⚡ Master **advanced DSA** and competitive programming  
+- 💻 Deploy more **full-stack projects** with scalability  
+- 🤝 Collaborate on impactful **open-source contributions**  
+- 🚀 Grow GitHub & LinkedIn network  
+- 📚 Learn **C++ deeply** and strengthen core concepts  
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/Exoblade-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anmol-singh-09a301378/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anmolsinghchauhan.200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/_anmolsingh_/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+### 💡 Dev Quote of the Day
+
+> “First, solve the problem. Then, write the code.” – *John Johnson*  
+
+---
+
+### 🔥 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Exoblade-dev&label=Profile+Visitors&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⚡ Fun Facts About Me  
+
+- 🏹 Solved **700+ DSA problems** — debugging feels like a boss fight 🎮  
+- 🎨 I treat every `<div>` like a masterpiece  
+- 🛠️ Sometimes my code runs on first try… but only on Sundays 😆  
+- 🏆 Hackathon finalist moments > caffeine boosts ☕  
+
+---
+
+<p align="center">
+  Crafted with 💙 by <strong>Anmol Singh</strong>
+</p>
